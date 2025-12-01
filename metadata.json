@@ -1,0 +1,5 @@
+{
+  "name": "PokerNight",
+  "description": "An 8-player No-Limit Texas Hold'em game against GTO-powered AI opponents using the Gemini API.",
+  "requestFramePermissions": []
+}
